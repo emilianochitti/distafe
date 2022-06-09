@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.navlogo{
+    height: 100px;
+}
+
+.logo{
+    height: 80px;
+}
+
+.submenu{
+    background-color: coral;
+    color: black;
+}
+
+.boton-busqueda{
+    color: black;
+    border: black;
+}
+
+.footer{
+    background-color: black;
+   }
+
+.footer ul li a{
+    color: white;
+}
