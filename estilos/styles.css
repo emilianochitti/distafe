@@ -32,3 +32,56 @@ body{
 .footer ul li a{
     color: white;
 }
+
+.secciones-principal{
+    margin-top: 100px;
+    margin-bottom: 300px;
+}
+
+.titulos{
+    color: coral;
+    font-size: 40px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.subtitulos{
+    color: black;
+    font-size: medium;
+    font-weight: 300;
+}
+
+.secciones-principal div{
+    text-align: center;
+}
+
+#section-negocio div div {
+    width: 100%;
+    margin: auto;
+}
+
+
+#section-negocio div div img {
+    width: 100%;
+    margin: auto;
+}
+
+
+.contacto{
+    margin-top: 100px;
+    margin-bottom: 300px;
+}
+
+#section-clientes{
+    margin-top: 100px;
+    margin-bottom: 300px;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    
+}
+
+.tarjetas{
+    align-items: center;
+}
+
